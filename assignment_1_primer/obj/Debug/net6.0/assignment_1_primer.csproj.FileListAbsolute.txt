@@ -1,0 +1,15 @@
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\assignment_1_primer\assignment_1_primer\obj\Debug\net6.0\assignment_1_primer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\assignment_1_primer\assignment_1_primer\obj\Debug\net6.0\assignment_1_primer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\assignment_1_primer\assignment_1_primer\obj\Debug\net6.0\assignment_1_primer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\assignment_1_primer\assignment_1_primer\obj\Debug\net6.0\assignment_1_primer.AssemblyInfo.cs
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\assignment_1_primer\assignment_1_primer\obj\Debug\net6.0\assignment_1_primer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\assignment_1_primer\assignment_1_primer\bin\Debug\net6.0\assignment_1_primer.exe
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\assignment_1_primer\assignment_1_primer\bin\Debug\net6.0\assignment_1_primer.deps.json
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\assignment_1_primer\assignment_1_primer\bin\Debug\net6.0\assignment_1_primer.runtimeconfig.json
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\assignment_1_primer\assignment_1_primer\bin\Debug\net6.0\assignment_1_primer.dll
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\assignment_1_primer\assignment_1_primer\bin\Debug\net6.0\assignment_1_primer.pdb
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\assignment_1_primer\assignment_1_primer\obj\Debug\net6.0\assignment_1_primer.dll
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\assignment_1_primer\assignment_1_primer\obj\Debug\net6.0\refint\assignment_1_primer.dll
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\assignment_1_primer\assignment_1_primer\obj\Debug\net6.0\assignment_1_primer.pdb
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\assignment_1_primer\assignment_1_primer\obj\Debug\net6.0\assignment_1_primer.genruntimeconfig.cache
+C:\Users\Lenovo\NTV\Haust22\Assigmnents\assignment_1_primer\assignment_1_primer\obj\Debug\net6.0\ref\assignment_1_primer.dll
